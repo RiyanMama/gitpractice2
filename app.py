@@ -2,7 +2,10 @@
 def addition(a,b):
     print(a+b)
     return a+b
-## Multi[plication of two numbetrs
+## Multiplication of two numbetrs
 def multiplication(a,b):
     return a*b
 
+## Division of two numbers
+def division(a,b):
+    return a/b
